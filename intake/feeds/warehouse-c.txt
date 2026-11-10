@@ -4,7 +4,7 @@
 PART|NP-3011|Nitrile Exam Gloves, Medium, 100/bx|PPE|box
 PART|NP-3012|Nitrile Exam Gloves, Large, 100/bx|PPE|box
 PART|NP-3013|Face Shields, Anti-Fog, 20/pk|PPE|pack
-PART|NP-3015|Sterile Pipette Tips 200uL, Racked, Sterile|Pipetting|rack
+PART|NP-3015|Sterile Pipette Tips 200uL, Racked|Pipetting|rack
 PART|NP-3016|Sterile Pipette Tips 1000uL, Racked|Pipetting|rack
 PART|NP-3017|Filter Tips 10uL, Sterile|Pipetting|rack
 PART|NP-3018|Serological Pipettes 10mL, Individually Wrapped|Pipetting|case
