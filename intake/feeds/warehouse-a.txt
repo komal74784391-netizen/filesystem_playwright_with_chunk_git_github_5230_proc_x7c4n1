@@ -42,6 +42,14 @@ PART|NP-3047|Nitrile Gloves, Small, 100/bx|PPE|box
 PART|NP-3048|Safety Goggles, Splash-Proof|PPE|each
 PART|NP-3049|Pipette Tip Boxes, Empty, 96-place|Pipetting|pack
 PART|NP-3050|Filter Paper, Grade 1, 15cm|Filtration|pack
+PART|NP-3501|Transfer Pipettes, 3mL, 500/pk|Pipetting|pack
+PART|NP-3502|Cell Strainers 40um, Sterile, 50/pk|Filtration|pack
+PART|NP-3503|Embedding Cassettes, 100/pk|Histology|pack
+PART|NP-3504|Microscope Slides, Frosted, 72/pk|Histology|pack
+PART|NP-3505|Cover Glasses, 22x22mm, 100/pk|Histology|pack
+PART|NP-3506|Slide Boxes, 100-Place|Histology|each
+PART|NP-3507|Tissue Culture Inserts 12mm, 50/pk|Cell Culture|pack
+PART|NP-3508|Cell Culture Dishes 100mm, 20/cs|Cell Culture|case
 PART|
 PART|   
 
