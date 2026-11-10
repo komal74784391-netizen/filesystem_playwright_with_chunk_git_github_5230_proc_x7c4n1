@@ -40,6 +40,14 @@ PART|NP-3061|Low-Binding Microcentrifuge Tubes 2.0mL, 500/pk|PCR|pack
 PART|NP-3062|N95 Respirators, NIOSH, 20/bx|PPE|box
 PART|NP-3063|Hank's Balanced Salt Solution 500mL|Cell Culture|bottle
 PART|NP-3064|Cell Scrapers 25cm, Sterile, 100/cs|Cell Culture|case
+PART|NP-3501|Transfer Pipettes, 3mL, 500/pk|Pipetting|pack
+PART|NP-3502|Cell Strainers 40um, Sterile, 50/pk|Filtration|pack
+PART|NP-3503|Embedding Cassettes, 100/pk|Histology|pack
+PART|NP-3504|Microscope Slides, Frosted, 72/pk|Histology|pack
+PART|NP-3505|Cover Glasses, 22x22mm, 100/pk|Histology|pack
+PART|NP-3506|Slide Boxes, 100-Place|Histology|each
+PART|NP-3507|Tissue Culture Inserts 12mm, 50/pk|Cell Culture|pack
+PART|NP-3508|Cell Culture Dishes 100mm, 20/cs|Cell Culture|case
 PART|
 PART|   
 
