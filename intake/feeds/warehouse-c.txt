@@ -1,0 +1,24 @@
+# NorthPeak Supply consolidated feed — Warehouse C
+# Overlaps warehouse A for the recurring consumables.
+
+PART|NP-3011|Nitrile Exam Gloves, Medium, 100/bx|PPE|box
+PART|NP-3012|Nitrile Exam Gloves, Large, 100/bx|PPE|box
+PART|NP-3013|Face Shields, Anti-Fog, 20/pk|PPE|pack
+PART|NP-3015|Sterile Pipette Tips 200uL, Racked, Sterile|Pipetting|rack
+PART|NP-3016|Sterile Pipette Tips 1000uL, Racked|Pipetting|rack
+PART|NP-3017|Filter Tips 10uL, Sterile|Pipetting|rack
+PART|NP-3018|Serological Pipettes 10mL, Individually Wrapped|Pipetting|case
+PART|NP-3019|Serological Pipettes 25mL, Individually Wrapped|Pipetting|case
+PART|NP-3020|Syringe Filters 0.22um PES, 33mm|Filtration|pack
+PART|NP-3021|Vacuum Filter Units 500mL 0.22um|Filtration|case
+PART|NP-3111|Needles 21G, 1.5in, 100/pk|Filtration|pack
+PART|NP-3112|Petri Dishes 100mm, 500/cs|Cell Culture|case
+PART|NP-3113|Inoculating Loops, 10uL, Sterile|Cell Culture|pack
+PART|NP-3114|Cell Counting Slides, 50/pk|Cell Culture|pack
+PART|NP-3115|Hemocytometer, Neubauer|Cell Culture|each
+PART|NP-3116|Water Bath Covers, Universal|Cleaning|each
+PART|NP-3117|Ice Buckets, Insulated, 1L|Cryostorage|each
+PART|NP-3118|Cryo Gloves, Mid-Arm|Cryostorage|pair
+PART|NP-3119|Temperature Loggers, USB, 30/pk|Cryostorage|pack
+PART|NP-3120|Desiccant Packs, 10g, 100/pk|Cryostorage|pack
+PART|

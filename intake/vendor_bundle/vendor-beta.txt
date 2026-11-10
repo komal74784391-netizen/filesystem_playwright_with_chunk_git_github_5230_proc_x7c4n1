@@ -1,0 +1,28 @@
+# Vendor bundle export — third-party reseller price dump (mirror)
+
+PART|VND-1013|Nitrile Exam Gloves, Medium, 100/bx (vendor bundle)|PPE|box
+PART|VND-1014|Nitrile Exam Gloves, Large, 100/bx (vendor bundle)|PPE|box
+PART|VND-1015|Face Shields, Anti-Fog, 20/pk (vendor bundle)|PPE|pack
+PART|VND-1016|Lab Coats, White, Medium (vendor bundle)|PPE|each
+PART|VND-1017|Sterile Pipette Tips 200uL, Racked (vendor bundle)|Pipetting|rack
+PART|VND-1018|Sterile Pipette Tips 1000uL, Racked (vendor bundle)|Pipetting|rack
+PART|VND-1019|Filter Tips 10uL, Sterile (vendor bundle)|Pipetting|rack
+PART|VND-1020|Serological Pipettes 10mL, Individually Wrapped (vendor bundle)|Pipetting|case
+PART|VND-1021|Serological Pipettes 25mL, Individually Wrapped (vendor bundle)|Pipetting|case
+PART|VND-1022|Syringe Filters 0.22um PES, 33mm (vendor bundle)|Filtration|pack
+PART|VND-1023|Vacuum Filter Units 500mL 0.22um (vendor bundle)|Filtration|case
+PART|VND-1024|Bottle Top Filters 0.45um (vendor bundle)|Filtration|case
+PART|VND-1025|Syringe Filters 0.45um PVDF (vendor bundle)|Filtration|pack
+PART|VND-1026|Sterile Alcohol Prep Pads (vendor bundle)|Cleaning|box
+PART|NP-3101|Ammonium Persulfate, 100g|PCR|each
+PART|NP-3102|Tris Base, 500g|PCR|each
+PART|NP-3103|SDS, 250g|Cleaning|each
+PART|NP-3104|Sodium Chloride, ACS, 1kg|Cleaning|each
+PART|NP-3105|Magnesium Chloride, 100g|PCR|each
+PART|NP-3106|Glycerol, Molecular Grade, 500mL|Cell Culture|bottle
+PART|NP-3107|Isopropanol 99.5%, 1L|Cleaning|bottle
+PART|NP-3108|Methanol, HPLC Grade, 1L|Cleaning|bottle
+PART|NP-3109|Acetonitrile, HPLC Grade, 1L|Cleaning|bottle
+PART|NP-3110|Sterile Syringes 10mL, 100/cs|Filtration|case
+PART|
+

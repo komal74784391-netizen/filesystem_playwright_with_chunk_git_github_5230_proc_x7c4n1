@@ -1,0 +1,23 @@
+# Archived warehouse extract — 2018 stock ledger (read-only)
+# Retained for audit; superseded by the consolidated feeds.
+
+PART|NP-3401|Disposable Serological Pipette Aid|Pipetting|each
+PART|NP-3402|Glass Erlenmeyer Flask 250mL|Cleaning|each
+PART|NP-3403|Glass Erlenmeyer Flask 500mL|Cleaning|each
+PART|NP-3404|Rubber Stoppers, Assorted, 50/pk|Cleaning|pack
+PART|NP-3405|Cork Rings, 100/pk|Cleaning|pack
+PART|NP-3406|Filter Flasks 500mL|Filtration|case
+PART|NP-3407|Vacuum Tubing, 3/8in, 25ft|Tubing|roll
+PART|NP-3408|Glass Wool, 100g|Filtration|each
+PART|NP-3409|Activated Charcoal, 500g|Cleaning|each
+PART|NP-3410|Diatomaceous Earth, 1kg|Filtration|each
+PART|NP-3121|Sample Bags, Whirl-Pak, 500/pk|Cryostorage|pack
+PART|NP-3122|Weighing Boats, Antistatic, 500/pk|Cleaning|pack
+PART|NP-3123|Spatulas, Stainless, 6-pack|Cleaning|pack
+PART|NP-3124|Stir Bars, PTFE, 10-pack|Cleaning|pack
+PART|NP-3125|pH Buffer Sachets, pH 4.01, 20/pk|Cleaning|pack
+PART|NP-3126|Conductivity Standard 1413uS, 500mL|Cleaning|bottle
+PART|NP-3127|Kimwipes, 4.5x8.5, 280/pk|Cleaning|box
+PART|NP-3128|Lens Tissues, 200/pk|Cleaning|pack
+PART|NP-3129|Glass Beads, 3mm, 500g|PCR|each
+PART|NP-3130|Silica Gel, 500g|Cleaning|each

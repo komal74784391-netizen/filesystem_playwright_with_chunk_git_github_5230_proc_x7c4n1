@@ -1,0 +1,39 @@
+# NorthPeak Supply consolidated feed — Warehouse B
+# Secondary warehouse; many lines are unapproved stock items.
+
+PART|NP-3101|Ammonium Persulfate, 100g|PCR|each
+PART|NP-3102|Tris Base, 500g|PCR|each
+PART|NP-3103|SDS, 250g|Cleaning|each
+PART|NP-3104|Sodium Chloride, ACS, 1kg|Cleaning|each
+PART|NP-3105|Magnesium Chloride, 100g|PCR|each
+PART|NP-3106|Glycerol, Molecular Grade, 500mL|Cell Culture|bottle
+PART|NP-3107|Isopropanol 99.5%, 1L|Cleaning|bottle
+PART|NP-3108|Methanol, HPLC Grade, 1L|Cleaning|bottle
+PART|NP-3109|Acetonitrile, HPLC Grade, 1L|Cleaning|bottle
+PART|NP-3110|Sterile Syringes 10mL, 100/cs|Filtration|case
+PART|NP-3111|Needles 21G, 1.5in, 100/pk|Filtration|pack
+PART|NP-3112|Petri Dishes 100mm, 500/cs|Cell Culture|case
+PART|NP-3113|Inoculating Loops, 10uL, Sterile|Cell Culture|pack
+PART|NP-3114|Cell Counting Slides, 50/pk|Cell Culture|pack
+PART|NP-3115|Hemocytometer, Neubauer|Cell Culture|each
+PART|NP-3116|Water Bath Covers, Universal|Cleaning|each
+PART|NP-3117|Ice Buckets, Insulated, 1L|Cryostorage|each
+PART|NP-3118|Cryo Gloves, Mid-Arm|Cryostorage|pair
+PART|NP-3119|Temperature Loggers, USB, 30/pk|Cryostorage|pack
+PART|NP-3120|Desiccant Packs, 10g, 100/pk|Cryostorage|pack
+PART|NP-3121|Sample Bags, Whirl-Pak, 500/pk|Cryostorage|pack
+PART|NP-3122|Weighing Boats, Antistatic, 500/pk|Cleaning|pack
+PART|NP-3123|Spatulas, Stainless, 6-pack|Cleaning|pack
+PART|NP-3124|Stir Bars, PTFE, 10-pack|Cleaning|pack
+PART|NP-3125|pH Buffer Sachets, pH 4.01, 20/pk|Cleaning|pack
+PART|NP-3126|Conductivity Standard 1413uS, 500mL|Cleaning|bottle
+PART|NP-3127|Kimwipes, 4.5x8.5, 280/pk|Cleaning|box
+PART|NP-3128|Lens Tissues, 200/pk|Cleaning|pack
+PART|NP-3129|Glass Beads, 3mm, 500g|PCR|each
+PART|NP-3130|Silica Gel, 500g|Cleaning|each
+PART|
+
+PART|NP-3101|Ammonium Persulfate, 100g|PCR|each
+PART|NP-3102|Tris Base, 500g|PCR|each
+PART|NP-3103|SDS, 250g|Cleaning|each
+PART|NP-3104|Sodium Chloride, ACS, 1kg|Cleaning|each

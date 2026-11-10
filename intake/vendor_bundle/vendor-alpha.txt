@@ -1,0 +1,14 @@
+# Vendor bundle export — third-party reseller price dump
+
+PART|VND-1001|Nitrile Exam Gloves, Medium, 100/bx (vendor bundle)|PPE|box
+PART|VND-1002|Nitrile Exam Gloves, Large, 100/bx (vendor bundle)|PPE|box
+PART|VND-1003|Face Shields, Anti-Fog, 20/pk (vendor bundle)|PPE|pack
+PART|VND-1004|Lab Coats, White, Medium (vendor bundle)|PPE|each
+PART|VND-1005|Sterile Pipette Tips 200uL, Racked (vendor bundle)|Pipetting|rack
+PART|VND-1006|Sterile Pipette Tips 1000uL, Racked (vendor bundle)|Pipetting|rack
+PART|VND-1007|Filter Tips 10uL, Sterile (vendor bundle)|Pipetting|rack
+PART|VND-1008|Serological Pipettes 10mL, Individually Wrapped (vendor bundle)|Pipetting|case
+PART|VND-1009|Serological Pipettes 25mL, Individually Wrapped (vendor bundle)|Pipetting|case
+PART|VND-1010|Syringe Filters 0.22um PES, 33mm (vendor bundle)|Filtration|pack
+PART|VND-1011|Vacuum Filter Units 500mL 0.22um (vendor bundle)|Filtration|case
+PART|VND-1012|Bottle Top Filters 0.45um (vendor bundle)|Filtration|case

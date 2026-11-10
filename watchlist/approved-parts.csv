@@ -1,0 +1,41 @@
+sku,part_name,category,unit_of_measure,unit_price_usd,currency,last_reviewed
+NP-3011,"Nitrile Exam Gloves, Medium, 100/bx",PPE,box,124.00,USD,2026-07-15
+NP-3012,"Nitrile Exam Gloves, Large, 100/bx",PPE,box,4.57,USD,2026-07-15
+NP-3013,"Face Shields, Anti-Fog, 20/pk",PPE,pack,10.16,USD,2026-07-15
+NP-3014,"Lab Coats, White, Medium",PPE,each,37.40,USD,2026-07-15
+NP-3015,"Sterile Pipette Tips 200uL, Racked",Pipetting,rack,193.59,USD,2026-07-15
+NP-3016,"Sterile Pipette Tips 1000uL, Racked",Pipetting,rack,60.18,USD,2026-07-15
+NP-3017,"Filter Tips 10uL, Sterile",Pipetting,rack,177.66,USD,2026-07-15
+NP-3018,"Serological Pipettes 10mL, Individually Wrapped",Pipetting,case,74.61,USD,2026-07-15
+NP-3019,"Serological Pipettes 25mL, Individually Wrapped",Pipetting,case,24.43,USD,2026-07-15
+NP-3020,"Syringe Filters 0.22um PES, 33mm",Filtration,pack,166.31,USD,2026-07-15
+NP-3021,Vacuum Filter Units 500mL 0.22um,Filtration,case,72.97,USD,2026-07-15
+NP-3022,Bottle Top Filters 0.45um,Filtration,case,149.04,USD,2026-07-15
+NP-3023,Syringe Filters 0.45um PVDF,Filtration,pack,11.44,USD,2026-07-15
+NP-3024,Sterile Alcohol Prep Pads,Cleaning,box,39.77,USD,2026-07-15
+NP-3025,"Cleanroom Wipes, 9x9, 100/pk",Cleaning,pack,87.63,USD,2026-07-15
+NP-3026,"Surface Disinfectant Wipes, 75/pk",Cleaning,canister,80.00,USD,2026-07-15
+NP-3027,"Autoclave Bags, 24x36",Cleaning,pack,103.66,USD,2026-07-15
+NP-3028,"Silicone Tubing 1/4in ID, 10ft",Tubing,roll,24.48,USD,2026-07-15
+NP-3029,"Peristaltic Pump Tubing, 2.4mm",Tubing,pack,103.22,USD,2026-07-15
+NP-3030,"PTFE Tubing 1/8in, 25ft",Tubing,roll,14.01,USD,2026-07-15
+NP-3031,DMEM High Glucose 500mL,Cell Culture,bottle,111.17,USD,2026-07-15
+NP-3032,Fetal Bovine Serum 500mL,Cell Culture,bottle,71.38,USD,2026-07-15
+NP-3033,"Trypsin-EDTA 0.25%, 100mL",Cell Culture,bottle,15.39,USD,2026-07-15
+NP-3034,PBS 1x 500mL,Cell Culture,case,81.30,USD,2026-07-15
+NP-3035,"Cell Culture Flasks T-75, 5/cs",Cell Culture,case,236.79,USD,2026-07-15
+NP-3036,"6-Well Plates, TC-treated, 50/cs",Cell Culture,case,14.17,USD,2026-07-15
+NP-3037,"Cryogenic Vials 2mL, Sterile, 500/pk",Cryostorage,pack,124.86,USD,2026-07-15
+NP-3038,CryoBoxes 100-Place,Cryostorage,each,187.54,USD,2026-07-15
+NP-3039,"PCR Tubes 0.2mL, 8-tube strips",PCR,pack,182.31,USD,2026-07-15
+NP-3040,"PCR Plates 96-Well, Semi-Skirted",PCR,case,139.09,USD,2026-07-15
+NP-3041,"Microcentrifuge Tubes 1.5mL, 500/pk",PCR,pack,182.92,USD,2026-07-15
+NP-3042,DNAse/RNase-Free Water 1L,PCR,bottle,12.91,USD,2026-07-15
+NP-3043,"Agarose, Molecular Biology Grade 100g",PCR,each,13.44,USD,2026-07-15
+NP-3044,"Ethanol 70%, 1L",Cleaning,bottle,25.24,USD,2026-07-15
+NP-3045,"Parafilm M, 4in x 125ft",Cleaning,roll,47.23,USD,2026-07-15
+NP-3046,"Aluminum Foil, Heavy Duty 12in",Cleaning,roll,76.95,USD,2026-07-15
+NP-3047,"Nitrile Gloves, Small, 100/bx",PPE,box,30.10,USD,2026-07-15
+NP-3048,"Safety Goggles, Splash-Proof",PPE,each,46.97,USD,2026-07-15
+NP-3049,"Pipette Tip Boxes, Empty, 96-place",Pipetting,pack,164.47,USD,2026-07-15
+NP-3050,"Filter Paper, Grade 1, 15cm",Filtration,pack,15.63,USD,2026-07-15

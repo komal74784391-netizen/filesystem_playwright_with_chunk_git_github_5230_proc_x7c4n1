@@ -1,0 +1,48 @@
+# NorthPeak Supply consolidated feed — Warehouse A
+# Format: PART|<sku>|<part name>|<category>|<uom>
+# Generated from the supplier EDI extract; do not edit by hand.
+
+PART|NP-3011|Nitrile Exam Gloves, Medium, 100/bx|PPE|box
+PART|NP-3012|Nitrile Exam Gloves, Large, 100/bx|PPE|box
+PART|NP-3013|Face Shields, Anti-Fog, 20/pk|PPE|pack
+PART|NP-3015|Sterile Pipette Tips 200uL, Racked, Sterile|Pipetting|rack
+PART|NP-3016|Sterile Pipette Tips 1000uL, Racked|Pipetting|rack
+PART|NP-3017|Filter Tips 10uL, Sterile|Pipetting|rack
+PART|NP-3018|Serological Pipettes 10mL, Individually Wrapped|Pipetting|case
+PART|NP-3019|Serological Pipettes 25mL, Individually Wrapped|Pipetting|case
+PART|NP-3020|Syringe Filters 0.22um PES, 33mm|Filtration|pack
+PART|NP-3021|Vacuum Filter Units 500mL 0.22um|Filtration|case
+PART|NP-3023|Syringe Filters 0.45um PVDF|Filtration|pack
+PART|NP-3024|Sterile Alcohol Prep Pads|Cleaning|box
+PART|NP-3025|Cleanroom Wipes, 9x9, 100/pk|Cleaning|pack
+PART|NP-3026|Surface Disinfectant Wipes, 75/pk, Alcohol-Free|Cleaning|canister
+PART|NP-3028|Silicone Tubing 1/4in ID, 10ft|Tubing|roll
+PART|NP-3029|Peristaltic Pump Tubing, 2.4mm|Tubing|pack
+PART|NP-3031|DMEM High Glucose 500mL|Cell Culture|bottle
+PART|NP-3032|Fetal Bovine Serum 500mL|Cell Culture|bottle
+PART|NP-3033|Trypsin-EDTA 0.25%, 100mL|Cell Culture|bottle
+PART|NP-3034|PBS 1x 500mL|Cell Culture|case
+PART|NP-3035|Cell Culture Flasks T-75, 5/cs|Cell Culture|case
+PART|NP-3036|6-Well Plates, TC-treated, 50/cs|Cell Culture|case
+PART|NP-3037|Cryogenic Vials 2mL, Sterile, 500/pk|Cryostorage|pack
+PART|NP-3039|PCR Tubes 0.2mL, 8-tube strips|PCR|pack
+PART|NP-3040|PCR Plates 96-Well, Semi-Skirted|PCR|case
+PART|NP-3041|Microcentrifuge Tubes 1.5mL, 500/pk|PCR|pack
+PART|NP-3042|Nuclease-Free Water, 1L|PCR|bottle
+PART|NP-3043|Agarose, Molecular Biology Grade 100g|PCR|each
+PART|NP-3044|Ethanol 70%, 1L|Cleaning|bottle
+PART|NP-3045|Parafilm M, 4in x 125ft|Cleaning|roll
+PART|NP-3047|Nitrile Gloves, Small, 100/bx|PPE|box
+PART|NP-3048|Safety Goggles, Splash-Proof|PPE|each
+PART|NP-3049|Pipette Tip Boxes, Empty, 96-Place, Stackable|Pipetting|pack
+PART|NP-3050|Filter Paper, Grade 1, 15cm|Filtration|pack
+PART|NP-3061|Low-Binding Microcentrifuge Tubes 2.0mL, 500/pk|PCR|pack
+PART|NP-3062|N95 Respirators, NIOSH, 20/bx|PPE|box
+PART|NP-3063|Hank's Balanced Salt Solution 500mL|Cell Culture|bottle
+PART|NP-3064|Cell Scrapers 25cm, Sterile, 100/cs|Cell Culture|case
+PART|
+PART|   
+
+PART|NP-3011|Nitrile Exam Gloves, Medium, 100/bx|PPE|box
+PART|NP-3012|Nitrile Exam Gloves, Large, 100/bx|PPE|box
+PART|NP-3013|Face Shields, Anti-Fog, 20/pk|PPE|pack
